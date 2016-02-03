@@ -1,0 +1,144 @@
+{
+  "firstname": "Matthieu",
+  "lastname": "COLLE",
+  "email": {
+    "label": "hello.matthieu.colle+resume@gmail.com",
+    "link": "hello.matthieu.colle+resume@gmail.com"
+  },
+  "status": "U.S. Permanent Resident",
+  "phone": "(415) 374-3178",
+  "city": "Oakland, CA",
+  "links": {
+    "github": "https://github.com/raiseandfall",
+    "linkedin": "https://linkedin.com/in/matthieucolle",
+    "twitter": "https://twitter.com/raiseandfall",
+    "angellist": "https://angel.co/matthieucolle",
+    "website": "https://matthieu.engineer"
+  },
+  "profile": "Full Stack Developer with experience building web and mobile applications from concept through development, launch and support. Passionate about emerging technologies and best development practices (continuous integration, code design, interaction process between developers and designers).",
+  "skills": {
+    "languages": [
+      "Javascript",
+      "HTML",
+      "CSS",
+      "PHP",
+      "NodeJS",
+      "Python",
+      "Swift",
+      "AS2/AS3"
+    ],
+    "frameworks": [
+      "Laravel",
+      "AngularJS",
+      "Cordova",
+      "Zend",
+      "Django",
+      "WordPress"
+    ],
+    "libraries/tools": [
+      "Foundation",
+      "Bootstrap",
+      "jQuery",
+      "WebSockets",
+      "Jasmine",
+      "Gulp",
+      "Grunt",
+      "SASS",
+      "Bower"
+    ],
+    "databases": [
+      "MySQL",
+      "MongoDB",
+      "MsSQL"
+    ],
+    "collaboration": [
+      "Git",
+      "Gitlab",
+      "TravisCI",
+      "Vagrant",
+      "Docker"
+    ],
+    "servers": [
+      "Apache",
+      "IIS"
+    ],
+    "apis": [
+      "Social Media",
+      "OAuth",
+      "REST"
+    ],
+    "design": [
+      "Photoshop",
+      "Illustrator",
+      "Sketch"
+    ]
+  },
+  "experience": [
+    {
+      "company": "John McNeil Studio",
+      "position": "Technical Director",
+      "location": "Berkeley, CA",
+      "start_time": "03/2015",
+      "end_time": "present",
+      "highlights": [
+        "Building highly used projects for Safran, Juniper Networks, CA Technologies, Cleversafe, Citizens Schools",
+        "Leading the development team and training new employees",
+        "R&D, improving team process"
+      ]
+    },
+    {
+      "company": "JVST Inc",
+      "position": "Lead Full Stack Developer",
+      "location": "San Francisco, CA",
+      "start_time": "06/2011",
+      "end_time": "03/2015",
+      "highlights": [
+        "Developed award winning projects (mobile & responsive) for clients such as the Academy of Arts of San Francisco, Asian Art Museum, The Pokemon Company, SEGA, Kenneth Cole, Cratejoy, Kabam",
+        "Hand-in-hand collaboration with the design team, Continuous Integration Deployment",
+        "Server administration & hiring process"
+      ]
+    },
+    {
+      "company": "Raise & Fall",
+      "position": "Flash & Back-end Developer (Freelance)",
+      "location": "Annecy / Paris, France",
+      "start_time": "07/2009",
+      "end_time": "05/2011",
+      "highlights": [
+        "Backend & Flash development for Lacoste, EDF/GDF, AMD/ATI, Ubisoft"
+      ]
+    },
+    {
+      "company": "Megalos",
+      "position": "Flash & Back-end Developer",
+      "location": "Annecy / Paris, France",
+      "start_time": "07/2006",
+      "end_time": "07/2009",
+      "highlights": [
+        "Back-end, Front-end, and Flash development on award winning projects for Martini, Warner Bros, Lacoste"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Gobelins School of the Image",
+      "location": "Annecy / Paris, France",
+      "start_time": "07/2006",
+      "end_time": "07/2008",
+      "description": "Interactive & Digital Media Program, Design & Development (equivalent M.S. / M.A.)"
+    },
+    {
+      "school": "Université de Franche-Comté",
+      "location": "Montbéliard, France",
+      "start_time": "09/2004",
+      "end_time": "06/2006",
+      "description": "DUT, Multimedia & Authoring"
+    }
+  ],
+  "interests": [
+    "Javascript and Robotics",
+    "Raspberry PI",
+    "Arduino",
+    "DIY Home Automation"
+  ]
+}
